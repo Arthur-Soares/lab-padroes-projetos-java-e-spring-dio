@@ -6,6 +6,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Arthur Soares\Downloads\BOOTCAMP DIO - JAVA\lab-padroes-projetos-java-e-spring-dio"/>
+			<item value="C:\Users\Arthur Soares\Downloads\BOOTCAMP DIO - JAVA\lab-padroes-projetos-java-e-spring-dio\lab-padroes-projeto-spring"/>
 			<item value="C:\Users\Arthur Soares\Downloads\BOOTCAMP DIO - JAVA\Explorando Padrões de Projetos na Prática com Java\lab-padroes-projeto-spring"/>
 		</list>
 	</section>
