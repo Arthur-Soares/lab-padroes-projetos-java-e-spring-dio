@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Arthur Soares\Downloads\BOOTCAMP DIO - JAVA\lab-padroes-projeto-spring-dio\.metadata\.plugins\org.eclipse.jdt.core
+376209231.index
+3833849269.index
